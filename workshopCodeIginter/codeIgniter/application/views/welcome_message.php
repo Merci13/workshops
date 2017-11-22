@@ -11,6 +11,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	<body>
 		<div class="container">
 			<div class="row">
+		
 				<div class="col-sm-12 col-md-6 col-lg-6">
 					<form class="form-signin" action=""><!--Falta agregar el action-->
 						<h2 class="form-signin-heading">Sing Up</h2>
