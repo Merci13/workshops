@@ -1,0 +1,7 @@
+CREATE TABLE `test`.`usuarios` ( `id` INT NOT NULL AUTO_INCREMENT ,
+				 `nombre` TEXT NOT NULL ,
+				 `apellido` TEXT NOT NULL ,
+				 `password` TEXT NOT NULL , 
+				 `correo` TEXT NOT NULL , 
+				 `estado` BOOLEAN NOT NULL ,
+					 PRIMARY KEY (`id`)) ENGINE = InnoDB;
